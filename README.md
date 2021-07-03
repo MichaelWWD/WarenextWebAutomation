@@ -1,3 +1,3 @@
 # WarenextWebAutomation
-Automated scripts for the Warenext web application
+Automation scripts for the Warenext web application
 4 Features Automated
